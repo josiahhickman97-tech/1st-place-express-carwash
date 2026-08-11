@@ -1,7 +1,7 @@
 # 1st Place Express Carwash Website
 
 Marketing site for **1st Place Express Carwash** in Picayune, MS.  
-Domain: **[1stplaceexpres.com](https://1stplaceexpres.com)** (already purchased)
+Domain: **[1stplaceexpress.com](https://1stplaceexpress.com)** (already purchased)
 
 ## Quick start (local preview)
 
@@ -52,7 +52,7 @@ Original camera files (`IMG_*.jpeg`) are kept alongside the semantic names.
 3. ~~Hours~~ ✅ Mon–Sat 7:30–7 both; Sun 9–5 Hwy 43 only
 4. Optional: add single-wash dollar prices when ready
 4. Wire the contact form (Formspree, Netlify Forms, Resend, etc.)
-5. Point DNS for `1stplaceexpres.com` to your host
+5. Point DNS for `1stplaceexpress.com` to your host
 6. Optional: also register `1stplaceexpress.com` and redirect
 
 ## Deploy

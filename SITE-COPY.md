@@ -1,6 +1,6 @@
 # 1st Place Express Carwash — Site Structure & Copy
 
-**Domain:** https://1stplaceexpres.com  
+**Domain:** https://1stplaceexpress.com  
 **Business:** 1st Place Express Car Wash, Inc. — Picayune, MS  
 **Phone:** (601) 798-6331  
 **Facebook:** https://www.facebook.com/1stplaceexpress/
@@ -196,6 +196,6 @@ Picayune, MS 39466
 - [ ] Confirm hours both sites (especially Saturday)  
 - [ ] Drop real logo + site photos into `/assets`  
 - [ ] Connect contact form (Formspree, Netlify Forms, or email)  
-- [ ] Point DNS for 1stplaceexpres.com to host (Vercel/Netlify/cPanel)  
+- [ ] Point DNS for 1stplaceexpress.com to host (Vercel/Netlify/cPanel)  
 - [ ] Optional: buy 1stplaceexpress.com and redirect  
 - [ ] Link Google Business Profile  

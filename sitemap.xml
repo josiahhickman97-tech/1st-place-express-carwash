@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://1stplaceexpres.com/</loc>
+    <loc>https://1stplaceexpress.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://1stplaceexpres.com/packages.html</loc>
+    <loc>https://1stplaceexpress.com/packages.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://1stplaceexpres.com/membership.html</loc>
+    <loc>https://1stplaceexpress.com/membership.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://1stplaceexpres.com/locations.html</loc>
+    <loc>https://1stplaceexpress.com/locations.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://1stplaceexpres.com/contact.html</loc>
+    <loc>https://1stplaceexpress.com/contact.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
