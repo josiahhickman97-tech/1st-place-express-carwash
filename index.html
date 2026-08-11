@@ -342,7 +342,7 @@
                 <div>Mon–Sat 7:30 AM – 7:00 PM<br />Sunday 9:00 AM – 5:00 PM</div>
               </div>
               <div class="location-actions">
-                <a class="btn btn-primary btn-sm" href="https://maps.google.com/?q=1508+Highway+43+South,+Picayune,+MS+39466" target="_blank" rel="noopener">Get directions</a>
+                <a class="btn btn-primary btn-sm" href="https://maps.google.com/?q=1508+Highway+43+South,+Picayune,+MS+39466" target="_blank" rel="noopener noreferrer">Get directions</a>
                 <a class="btn btn-outline-dark btn-sm" href="locations.html">Location details</a>
               </div>
             </div>
@@ -357,7 +357,7 @@
                 <div>Mon–Sat 7:30 AM – 7:00 PM<br />Sunday: Closed</div>
               </div>
               <div class="location-actions">
-                <a class="btn btn-primary btn-sm" href="https://maps.google.com/?q=101+Hayden+Oaks+Dr,+Picayune,+MS+39466" target="_blank" rel="noopener">Get directions</a>
+                <a class="btn btn-primary btn-sm" href="https://maps.google.com/?q=101+Hayden+Oaks+Dr,+Picayune,+MS+39466" target="_blank" rel="noopener noreferrer">Get directions</a>
                 <a class="btn btn-outline-dark btn-sm" href="locations.html">Location details</a>
               </div>
             </div>
@@ -374,7 +374,7 @@
           <div class="cta-actions">
             <a class="btn btn-gold" href="tel:+16017986331">Call (601) 798-6331</a>
             <a class="btn btn-outline" href="contact.html">Contact us</a>
-            <a class="btn btn-outline" href="https://www.facebook.com/1stplaceexpress/" target="_blank" rel="noopener">Facebook</a>
+            <a class="btn btn-outline" href="https://www.facebook.com/1stplaceexpress/" target="_blank" rel="noopener noreferrer">Facebook</a>
           </div>
         </div>
       </div>
@@ -409,28 +409,11 @@
       </div>
       <div class="footer-bottom">
         <span>&copy; <span data-year></span> 1st Place Express Carwash. All rights reserved.</span>
-        <span><a href="https://www.facebook.com/1stplaceexpress/" target="_blank" rel="noopener">Facebook</a> · 1stplaceexpress.com</span>
+        <span><a href="https://www.facebook.com/1stplaceexpress/" target="_blank" rel="noopener noreferrer">Facebook</a> · 1stplaceexpress.com</span>
       </div>
     </div>
   </footer>
-
-  <script>
-    // Show desktop CTA when wide enough
-    (function () {
-      var cta = document.getElementById("header-cta");
-      function sync() {
-        if (!cta) return;
-        cta.style.display = window.innerWidth > 820 ? "inline-flex" : "none";
-      }
-      sync();
-      window.addEventListener("resize", sync);
-    })();
-  </script>
-  <!-- Vercel Web Analytics -->
-  <script>
-    window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
-  </script>
-  <script defer src="/_vercel/insights/script.js"></script>
   <script src="js/main.js"></script>
+  <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
